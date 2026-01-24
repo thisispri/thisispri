@@ -1,7 +1,7 @@
 # Profile
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=7B9EFF&center=true&vCenter=true&width=900&lines=Hi!+I'm+%26+Priya;Welcome+to+my+GitHub+page+:)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=7B9EFF&center=true&vCenter=true&width=900&lines=Hi!+I'm+Priya;Welcome+to+my+GitHub+page+:)" />
 </h1>
 
 <p align="center">
