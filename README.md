@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-A brown gal tech lover. Serious about data. Even more serious about chai tea lattes. 
+A brown gal in tech 💻 Serious about data 📈 Even more serious about chai tea lattes 🫖
 </p>
 <p align="center">
    <img width="50" height="50" alt="image" src="https://imgproxy.attic.sh/insecure/f:png/plain/https://attic.sh/382x6mwx717tjyrsmmu0ra86hj89" />
