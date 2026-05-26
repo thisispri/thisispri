@@ -57,10 +57,10 @@ Git · HTML · CSS · Agile Delivery
 
 ## 🎓 Certifications (Recent)
 
+- Anthropic: AI Capabilities and Limitations
 - Microsoft Certified: Power BI Data Analyst Associate
 - Alteryx Designer Core Certified
 - KNIME Advanced Proficiency
-- UDemy 100 Days of Code™: The Complete Python Pro Bootcamp
 
 ## 🧬 How I Think
 
