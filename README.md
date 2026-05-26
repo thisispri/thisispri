@@ -13,13 +13,14 @@ A brown gal in tech 💻 Serious about data 📈 Even more serious about chai te
 
 ## 💁🏽‍♀️ About Me
 
-I turn **complex, enterprise data** into **clear, automated systems** that support **better decisions**.
+I enjoy building practical solutions that simplify workflows, improve operational efficiency, and turn complex processes into scalable digital systems.
 
-I specialise in:
-- Automating complex business processes
-- Designing scalable analytics workflows
-- Building dashboards that *actually* drive decisions
-- Translating business needs into technical systems
+Currently focused on:
+- AI-assisted workflow automation
+- Enterprise analytics & reporting
+- Process optimisation
+- Data-driven solutions
+- Digital transformation in tax & finance
 
 My background spans **tax, HR, consulting, and digital delivery**, giving me a strong systems-level view of how data flows through organisations.
 
