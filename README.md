@@ -47,7 +47,7 @@ My background spans **tax, HR, consulting, and digital delivery**, giving me a s
 SQL · Power BI · Tableau · KNIME · Alteryx  
 
 **Automation & Systems:**  
-Workflow Automation · Data Pipelines · Process Optimisation  
+Workflow Automation · Data Pipelines · Process Optimisation · Claude
 
 **Digital & Creative:**  
 Graphic Design · Data Visualisation · UI Thinking  
